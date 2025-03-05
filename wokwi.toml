@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'avrdemo.hex'
+elf = 'indvidual.elf'
